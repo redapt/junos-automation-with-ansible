@@ -86,7 +86,7 @@ Note: It is not required to use Junos CLI to configure Netconf on Junos devices.
 
 ```
 sudo -s
-git clone https://github.com/ksator/junos-automation-with-ansible.git
+git clone https://github.com/redapt/junos-automation-with-ansible.git
 ls junos-automation-with-ansible
 ```
 
